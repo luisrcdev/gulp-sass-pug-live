@@ -1,2 +1,3 @@
 # gulp-sass-pug-live
-gulpfije.js para automatizar el flujo de trabajo de disieño web
+En este **gulpfile.js** estan las funciones para que gulp automatice los cambios de sass a css, pug a html sin necesidad de actualizar el navegador, puedes ayudarme automatizando javascript, un saludo!
+*@luisrcdev*
